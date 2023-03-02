@@ -14,5 +14,6 @@ class Main {
             } else throw new IllegalArgumentException("Unknown character");
         }
         System.out.println(result);
+        System.out.println("Dit is een development branch" );
     }
 }
